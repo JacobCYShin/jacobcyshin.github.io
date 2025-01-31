@@ -3,7 +3,7 @@ layout: default
 title: Changyeop Shin
 ---
 
-# 👋 안녕하세요! 저는 신창엽입니다.
+# Changyeop Shin
 
 ## 🔹 About Me
 Changyeop is presently a researcher at the **Hana Institute of Technology (HIT)**, where he leads research on **virtual human AI systems** for customer services. His work focuses on **AI-driven facial motion synthesis, real-time lip-syncing, and large-scale virtual human generation using diffusion models and neural radiance fields (NeRF)**. Additionally, he has been developing **custom Text-to-Speech (TTS) models and AI-driven conversation agents** to enhance user interaction in digital environments.
