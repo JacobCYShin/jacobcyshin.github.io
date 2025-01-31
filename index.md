@@ -46,7 +46,7 @@ Jun. 2017 – May. 2020
 
 
 
-### <span style="color:#8E44AD; font-weight: bold;"> 🛠 AI for Scientific and Industrial Applications</span>
+### <span style="color:#3498DB; font-weight: bold;"> 🛠 AI for Scientific and Industrial Applications</span>
 #### **AI-Based Real-Time Radiation Monitoring System**  
 **Korea Atomic Energy Research Institute (KAERI)** | 📅 Sep. 2022 – Aug. 2023  
 - Developed **machine learning models** for real-time radiation detection and monitoring.  
