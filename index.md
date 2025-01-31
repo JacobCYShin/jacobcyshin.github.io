@@ -3,15 +3,15 @@ layout: default
 title: Changyeop Shin
 ---
 
-<h1 style="color:#2ECC71; font-size: 36px; font-weight: bold;">Welcome!</h1>
+<h1 style="color:#3498DB; font-size: 36px; font-weight: bold;">Welcome!</h1>
 
-## <span style="color:#3498DB; font-weight: bold;"> About Me</span>  
+## <span style="color:#2ECC71; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
 
 I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**. I began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
 
 
-## <span style="color:#E74C3C; font-weight: bold;"> Work Experience</span>
+## <span style="color:#2ECC71; font-weight: bold;"> Work Experience</span>
 
 **Hana Institute of Technology (HIT), Researcher**  
 Aug. 2023 – Present  
