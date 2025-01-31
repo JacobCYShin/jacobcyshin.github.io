@@ -37,7 +37,7 @@ Jun. 2017 – May. 2020
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Projects</span>  
 
-### <span style="color:#2980B9; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
+### <span style="color:#E67E22; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
 #### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 **Agency for Defense Development (ADD)** | 📅 Nov. 2018 – May. 2020  
 - Led project planning and proposal, securing research funding.  
@@ -47,7 +47,7 @@ Jun. 2017 – May. 2020
 
 ---
 
-### <span style="color:#8E44AD; font-weight: bold;"> ⚛ AI for Scientific and Industrial Applications</span>  
+### <span style="color:#E67E22; font-weight: bold;"> ⚛ AI for Scientific and Industrial Applications</span>  
 #### **AI-Based Real-Time Radiation Monitoring System**  
 **Korea Atomic Energy Research Institute (KAERI)** | 📅 Sep. 2022 – Aug. 2023  
 - Developed **machine learning models** for real-time radiation detection and monitoring.  
@@ -76,9 +76,6 @@ Jun. 2017 – May. 2020
 - Integrated **LLM-based conversational AI** for dynamic interactions.  
 - Developed **TTS and inference acceleration** for real-time service.  
 
----
-
-### <span style="color:#C0392B; font-weight: bold;"> 💳 AI-Generated Digital Business Solutions</span>  
 #### **One-Shot AI Business Card Generation**  
 **Hana Institute of Technology (HIT)** | 📅 Jun. 2024 – Dec. 2024  
 - Developed an **AI-driven personalized business card generator**.  
