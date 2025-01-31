@@ -12,24 +12,24 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 
 ## 🔹 Work Experience
 
-### **Hana Institute of Technology (HIT)**
-**Researcher** (Aug. 2023 – Present)  
-- Leading research on **AI-driven virtual human systems** for customer service applications  
-- Developing **diffusion model and NeRF-based** facial motion synthesis and real-time lip-syncing  
-- Building **custom TTS models and AI-driven conversational agents**  
-- Designing **web-based AI human demo environments** for interactive service validation  
+**Hana Institute of Technology (HIT), Researcher**  
+Aug. 2023 – Present  
+- AI-driven virtual human systems for customer service  
+- Diffusion and NeRF-based facial motion synthesis  
+- Real-time lip-syncing and custom TTS model development  
 
-### **Korea Atomic Energy Research Institute (KAERI)**
-**Researcher** (Jul. 2022 – Aug. 2023)  
-- Developed **AI-based radiation monitoring systems** for real-time anomaly detection  
-- Designed **deep learning algorithms** for nuclear signal filtering and radiation safety enhancement  
-- Built a **real-time radiation monitoring dashboard** using a relational database  
+**Korea Atomic Energy Research Institute (KAERI), Researcher**  
+Jul. 2022 – Aug. 2023  
+- AI-based radiation monitoring and anomaly detection  
+- Deep learning for nuclear signal filtering  
+- Real-time radiation monitoring dashboard development  
 
-### **Agency for Defense Development (ADD)**
-**Research Officer** (Jun. 2017 – May. 2020)  
-- Conducted **computer vision and deep learning research** for military applications  
-- Developed **satellite image super-resolution models** using adversarial learning  
-- Designed an **object detection system for remote sensing imagery**  
+**Agency for Defense Development (ADD), Research Officer**  
+Jun. 2017 – May. 2020  
+- Computer vision and deep learning for military applications  
+- Satellite image super-resolution using adversarial learning  
+- Object detection for remote sensing imagery  
+
 
   
 ## 🔹 연구 및 프로젝트
