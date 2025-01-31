@@ -32,21 +32,46 @@ Jun. 2017 – May. 2020
 
 
   
-## 🔹 연구 및 프로젝트
-### 🎯 AI 기반 실시간 방사선 계측 시스템 개발 (한국원자력연구원)
-- 방사선 데이터를 실시간 감시하고 비연속적 신호를 정밀 계측하는 머신러닝 모델 설계 및 개발
-- 신호 필터링 및 이상 감지 기술 연구
-- 실시간 방사선 모니터링 시스템 구축 및 안정화
+## 🔹 Projects  
 
-### 🎯 AI Human 얼굴 생성 기술 연구 (하나금융융합기술원)
-- Diffusion 모델과 NeRF 기반 얼굴 모션 생성 연구
-- LLM 프롬프트 엔지니어링 및 커스텀 TTS 모델 개발
-- 웹 기반 AI 휴먼 서비스 데모 개발
+### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
+**Agency for Defense Development (ADD)** | Nov. 2018 – May. 2020  
+- Led project planning and proposal, securing research funding.  
+- Developed **GAN-based super-resolution models** for enhancing small satellite imagery.  
+- Designed **multi-resolution image alignment techniques** for heterogeneous satellite data.  
+- Managed **data acquisition and outsourcing**, ensuring efficient annotation processes.  
 
-### 🎯 초소형 위성영상 분석을 위한 딥러닝 기반 초해상도 연구 (국방과학연구소)
-- GAN 기반 위성 초해상도 모델 개발
-- 이종 위성영상 정합 기술 연구
-- 위성영상 데이터 레이블링 및 프로젝트 관리
+### **AI-Based Real-Time Radiation Monitoring System**  
+**Korea Atomic Energy Research Institute (KAERI)** | Sep. 2022 – Aug. 2023  
+- Developed **machine learning models** for real-time radiation detection and monitoring.  
+- Implemented **random signal measurement techniques** to improve detection accuracy.  
+- Designed **noise filtering and anomaly detection algorithms** for signal processing.  
+- Optimized system **performance and stability** for real-world deployment.  
+
+### **AI Human Facial Motion Generation Research**  
+**Hana Institute of Technology (HIT)** | Aug. 2023 – Dec. 2023  
+- Built a **script-based automated AI human generation pipeline** for virtual avatars.  
+- Developed **lip-syncing models** to enhance speech-driven facial animation.  
+- Researched **optical flow-based face reenactment techniques** for realistic motion synthesis.  
+
+### **AI Bank Teller Development for Virtual Consultation**  
+**Hana Institute of Technology (HIT)** | Apr. 2024 – Sep. 2024  
+- Developed **AI bank teller avatars** for virtual consultation scenarios.  
+- Designed **realistic facial animations and persona modeling** to enhance user experience.  
+- Integrated **3D rendering techniques** for high-fidelity digital human interactions.  
+
+### **One-Shot AI Business Card Generation**  
+**Hana Institute of Technology (HIT)** | Jun. 2024 – Dec. 2024  
+- Developed an **AI-driven personalized business card generator**.  
+- Implemented **one-shot learning techniques** for identity-based motion synthesis.  
+- Automated **background generation** and **GUI-based customization workflows**.  
+
+### **Real-Time Intelligent AI Bank Teller System**  
+**Hana Institute of Technology (HIT)** | Nov. 2024 – Dec. 2025  
+- Designed a **real-time AI bank teller generation pipeline**.  
+- Integrated **LLM-based conversational AI** for dynamic interactions.  
+- Developed **TTS and inference acceleration** for real-time service.  
+
 
 
 ## 🔹 Publications  
