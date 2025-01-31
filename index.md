@@ -3,9 +3,7 @@ layout: default
 title: Changyeop Shin
 ---
 
-# Welcome!
-
-## <span style="color:#3498DB; font-weight: bold;"> About Me</span>  
+## <span style="color:#3498DB; font-weight: bold;"> Welcome! </span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including **facial motion synthesis, real-time lip-syncing, and generative AI models**.  
 
 Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where I developed **AI-based radiation monitoring and anomaly detection systems**. I also worked as a research officer at the **Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
