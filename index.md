@@ -10,8 +10,6 @@ I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **A
 
 I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST**, and began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.
 
-> *"If the wind will not serve, take to the oars."*  
-> - Changyeop Shin  
 
 ## 🔹 연구 및 프로젝트
 ### 🎯 AI 기반 실시간 방사선 계측 시스템 개발 (한국원자력연구원)
