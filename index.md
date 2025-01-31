@@ -49,15 +49,28 @@ Jun. 2017 – May. 2020
 - 위성영상 데이터 레이블링 및 프로젝트 관리
 
 
-## 🔹 Publications & Patents
-### 📄 논문
-- **C. Shin**, H. Ryu, E.-S. Cho, et al., *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network"*, **Medical Image Analysis (MIA)**, 2022.
-- **C. Shin**, S. Kim, Y. Kim, *"Satellite Image Target Super-Resolution with Adversarial Shape Discriminator"*, **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2020.
-- **C. Shin**, S. Lee, *"Piecewise learning-based smoothing filter for fast and accurate nuclear counting"*, **IEEE Nuclear Science Symposium (NSSMIC)**, 2023.
+## 🔹 Publications  
 
-### 🔬 특허
-- **위성 이미지 해상도 향상을 위한 학습 방법 및 장치** (1020676290000, KIPO, 2020)
-- **AI 기반 가상인간 얼굴 모션 생성 시스템 및 방법** (출원 중)
+### **Journals**  
+- **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
+- **C. Shin**, S. Kim, Y. Kim, *"Satellite Image Target Super-resolution with Adversarial Shape Discriminator,"* **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2020.  
+- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image restoration,"* **SPIE Journal of Applied Remote Sensing (JARS)**, 2020.  
+
+### **Conferences**  
+- **C. Shin**, S. Lee, *"Piecewise learning-based smoothing filter for fast and accurate nuclear counting,"* **IEEE Nuclear Science Symposium and Medical Imaging Conference (NSSMIC)**, 2023.  
+- **C. Shin**, H. Ryu, E.-S. Cho, Y.-G. Yoon, *"RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing,"* **MICCAI (Medical Image Computing and Computer-Assisted Intervention)**, 2021. *(Early accept, Top 13%)*  
+  - **MICCAI Young Scientist Award**, *(First Korean recipient)*  
+  - **MICCAI Student Travel Award**  
+- **C. Shin**, S. Kim, Y. Kim, *"FROM PLANETSCOPE TO WORLDVIEW: MICRO-SATELLITE IMAGE SUPER-RESOLUTION WITH OPTIMAL TRANSPORT DISTANCE,"* **IEEE International Conference on Image Processing (ICIP)**, 2020.  
+- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image super-resolution,"* **SPIE International Conference on Remote Sensing (ICRS)**, 2019.  
+
+---
+
+## 🔹 Patents  
+- **Learning method and apparatus for improved resolution of low-resolution satellite images**, **Patent No. 1020676290000**, KIPO, 2020.  
+- **Learning method and apparatus for improved resolution of satellite images**, **Patent No. 1020200067873**, KIPO, 2020.  
+- **AI-based virtual human facial motion generation system and method**, **Patent Pending**.  
+
 
 ## 🔹 Tech Stack
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
