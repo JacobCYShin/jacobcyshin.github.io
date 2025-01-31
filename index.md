@@ -6,7 +6,15 @@ title: Changyeop Shin
 # 👋 안녕하세요! 저는 신창엽입니다.
 
 ## 🔹 About Me
-AI 연구자로서 **컴퓨터 비전, 생성 모델, 머신러닝**을 연구하고 있으며, 현재 **Hana Institute of Technology (HIT)**에서 가상 인간 AI 시스템을 개발하고 있습니다.
+Changyeop is presently a researcher at the **Hana Institute of Technology (HIT)**, where he leads research on **virtual human AI systems** for customer services. His work focuses on **AI-driven facial motion synthesis, real-time lip-syncing, and large-scale virtual human generation using diffusion models and neural radiance fields (NeRF)**. Additionally, he has been developing **custom Text-to-Speech (TTS) models and AI-driven conversation agents** to enhance user interaction in digital environments.
+
+Previously, from 2022 to 2023, he served as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where he contributed to developing a **radiation monitoring system** using machine learning-based anomaly detection. His research included **arc fault detection, nuclear signal filtering, and real-time monitoring system optimization**.
+
+He pursued his master’s degree in the **Neuro‐Instrumentation Computational Analysis (NICA) lab at KAIST**, under the supervision of **Professor Young‐Gyu Yoon**, during the period of 2020 to 2022. His graduate research focused on **computational imaging methods for enhanced medical imaging, cancer diagnosis, and semi-supervised anomaly detection models**.
+
+Having earned his **B.S. degree in Electrical Engineering and Computer Science from GIST** in 2017, Changyeop commenced his professional journey as a **research officer in national defense at the Agency for Defense Development (ADD) from 2017 to 2020**. At ADD, he specialized in **computer vision, machine learning, and satellite image processing**, developing **deep learning-based super-resolution models and object detection systems for remote sensing applications**.
+
+His current research pursuits revolve around **computer vision, generative models, and machine learning**, with a specific focus on **anomaly detection, image restoration, and recognition in both theoretical frameworks and practical applications**.
 
 > *"If the wind will not serve, take to the oars."*  
 > - Changyeop Shin  
