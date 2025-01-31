@@ -3,7 +3,7 @@ layout: default
 title: Changyeop Shin
 ---
 
-<h1 style="color:#2C3E50; font-size: 36px; font-weight: bold;">Welcome!</h1>
+<h1 style="color:#2ECC71; font-size: 36px; font-weight: bold;">Welcome!</h1>
 
 ## <span style="color:#3498DB; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
@@ -33,7 +33,7 @@ Jun. 2017 – May. 2020
 
 
   
-## <span style="color:#F39C12; font-weight: bold;"> Projects</span>  
+## <span style="color:#2ECC71; font-weight: bold;"> Projects</span>  
 
 ### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 **Agency for Defense Development (ADD)** | Nov. 2018 – May. 2020  
@@ -75,7 +75,7 @@ Jun. 2017 – May. 2020
 
 
 
-## <span style="color:#9B59B6; font-weight: bold;"> Publications</span>  
+## <span style="color:#2ECC71; font-weight: bold;"> Publications</span>  
 
 ### **Journals**  
 - **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
@@ -92,7 +92,7 @@ Jun. 2017 – May. 2020
 
 ---
 
-## <span style="color:#27AE60; font-weight: bold;"> Achievements</span>  
+## <span style="color:#2ECC71; font-weight: bold;"> Achievements</span>  
 
 
 - **4th Place, NTIRE 2020 Challenge on Real Image Denoising**, **CVPR Workshop**, 2020  
