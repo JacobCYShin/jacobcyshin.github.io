@@ -3,15 +3,15 @@ layout: default
 title: Changyeop Shin
 ---
 
-# Welcome!
+<h1 style="color:#2C3E50; font-size: 36px; font-weight: bold;">Welcome!</h1>
 
-## 🔹 About Me  
+## <span style="color:#3498DB; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
 
 I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**. I began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
 
 
-## 🔹 Work Experience
+## <span style="color:#E74C3C; font-weight: bold;"> Work Experience</span>
 
 **Hana Institute of Technology (HIT), Researcher**  
 Aug. 2023 – Present  
@@ -33,7 +33,7 @@ Jun. 2017 – May. 2020
 
 
   
-## 🔹 Projects  
+## <span style="color:#F39C12; font-weight: bold;"> Projects</span>  
 
 ### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 **Agency for Defense Development (ADD)** | Nov. 2018 – May. 2020  
@@ -75,7 +75,7 @@ Jun. 2017 – May. 2020
 
 
 
-## 🔹 Publications  
+## <span style="color:#9B59B6; font-weight: bold;"> Publications</span>  
 
 ### **Journals**  
 - **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
@@ -92,7 +92,8 @@ Jun. 2017 – May. 2020
 
 ---
 
-## 🔹 Achievement
+## <span style="color:#27AE60; font-weight: bold;"> Achievements</span>  
+
 
 - **4th Place, NTIRE 2020 Challenge on Real Image Denoising**, **CVPR Workshop**, 2020  
 - **4th Place, NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image**, **CVPR Workshop**, 2020  
@@ -102,13 +103,13 @@ Jun. 2017 – May. 2020
 - **Defense Minister Award**, **K Start-up Challenge**, **Ministry of Defence**, 2018  
 
 
-## 🔹 Tech Stack
+## <span style="color:#2ECC71; font-weight: bold;"> Tech Stack</span>  
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
 - **Backend**: Python, FastAPI, Flask, SQL
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
 - **DevOps**: Docker, Git, Linux
 
-## 📩 Contact
+## <span style="color:#E67E22; font-weight: bold;">📩 Contact</span>  
 - 📧 Email: [scey26@gmail.com](mailto:scey26@gmail.com)
 - 🏠 Homepage: [https://jacobcyshin.github.io](https://jacobcyshin.github.io)
 - 📄 Google Scholar: [Changyeop Shin](https://scholar.google.com/citations?user=IfKqNVMAAAAJ&hl=en)
