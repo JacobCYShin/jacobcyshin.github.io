@@ -38,7 +38,7 @@ Jun. 2017 – May. 2020
 
 ## <span style="color:#3498DB; font-weight: bold;"> Projects</span>  
 
-### <span style="color:#E67E22; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
+### <span style="color:#3498DB; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
 #### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 **Agency for Defense Development (ADD)** | 📅 Nov. 2018 – May. 2020  
 - Led project planning and proposal, securing research funding.  
@@ -48,7 +48,7 @@ Jun. 2017 – May. 2020
 
 ---
 
-### <span style="color:#E67E22; font-weight: bold;"> ⚛ AI for Scientific and Industrial Applications</span>  
+### <span style="color:#3498DB; font-weight: bold;"> ⚛ AI for Scientific and Industrial Applications</span>  
 #### **AI-Based Real-Time Radiation Monitoring System**  
 **Korea Atomic Energy Research Institute (KAERI)** | 📅 Sep. 2022 – Aug. 2023  
 - Developed **machine learning models** for real-time radiation detection and monitoring.  
@@ -58,7 +58,7 @@ Jun. 2017 – May. 2020
 
 ---
 
-### <span style="color:#E67E22; font-weight: bold;"> 🧑‍💻 AI Human & Virtual Avatar Systems</span>  
+### <span style="color:#3498DB; font-weight: bold;"> 🧑‍💻 AI Human & Virtual Avatar Systems</span>  
 #### **AI Human Facial Motion Generation Research**  
 **Hana Institute of Technology (HIT)** | 📅 Aug. 2023 – Dec. 2023  
 - Built a **script-based automated AI human generation pipeline** for virtual avatars.  
