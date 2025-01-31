@@ -3,7 +3,7 @@ layout: default
 title: Changyeop Shin
 ---
 
-<h1 style="color:#3498DB; font-size: 36px; font-weight: bold;">Welcome!</h1>
+<h1 font-size: 36px; font-weight: bold;">Welcome!</h1>
 
 ## <span style="color:#2ECC71; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
@@ -109,7 +109,7 @@ Jun. 2017 – May. 2020
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
 - **DevOps**: Docker, Git, Linux
 
-## <span style="color:#E67E22; font-weight: bold;">📩 Contact</span>  
+## <span style="color:#3498DB; font-weight: bold;">📩 Contact</span>  
 - 📧 Email: [scey26@gmail.com](mailto:scey26@gmail.com)
 - 🏠 Homepage: [https://jacobcyshin.github.io](https://jacobcyshin.github.io)
 - 📄 Google Scholar: [Changyeop Shin](https://scholar.google.com/citations?user=IfKqNVMAAAAJ&hl=en)
