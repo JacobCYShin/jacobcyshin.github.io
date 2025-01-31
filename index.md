@@ -5,7 +5,7 @@ title: Changyeop Shin
 
 # Welcome!
 
-## <span style="color:#2ECC71; font-weight: bold;"> About Me</span>  
+## <span style="color:#1A1A1A; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including **facial motion synthesis, real-time lip-syncing, and generative AI models**.  
 
 Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where I developed **AI-based radiation monitoring and anomaly detection systems**. I also worked as a research officer at the **Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
@@ -14,7 +14,7 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 
 <hr>
 
-## <span style="color:#2ECC71; font-weight: bold;"> Work Experience</span>
+## <span style="color:#1A1A1A; font-weight: bold;"> Work Experience</span>
 
 **Hana Institute of Technology (HIT), Researcher**  
 Aug. 2023 – Present  
@@ -36,7 +36,7 @@ Jun. 2017 – May. 2020
 
 <hr>
 
-## <span style="color:#2ECC71; font-weight: bold;"> Projects</span>  
+## <span style="color:#1A1A1A; font-weight: bold;"> Projects</span>  
 
 ### <span style="color:#E67E22; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
 #### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
@@ -85,7 +85,7 @@ Jun. 2017 – May. 2020
 
 <hr>
 
-## <span style="color:#2ECC71; font-weight: bold;"> Publications</span>  
+## <span style="color:#1A1A1A; font-weight: bold;"> Publications</span>  
 
 ### **Journals**  
 - **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
@@ -103,7 +103,7 @@ Jun. 2017 – May. 2020
 <hr>
 
 
-## <span style="color:#2ECC71; font-weight: bold;"> Achievements</span>  
+## <span style="color:#1A1A1A; font-weight: bold;"> Achievements</span>  
 
 
 - **4th Place, NTIRE 2020 Challenge on Real Image Denoising**, **CVPR Workshop**, 2020  
@@ -115,7 +115,7 @@ Jun. 2017 – May. 2020
 
 <hr>
 
-## <span style="color:#2ECC71; font-weight: bold;"> Tech Stack</span>  
+## <span style="color:#1A1A1A; font-weight: bold;"> Tech Stack</span>  
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
 - **Backend**: Python, FastAPI, Flask, SQL
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
