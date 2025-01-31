@@ -12,7 +12,7 @@ Previously, I worked as a researcher at the **Korea Atomic Energy Research Insti
 
 I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**.  
 
-
+<hr>
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Work Experience</span>
 
@@ -34,6 +34,7 @@ Jun. 2017 – May. 2020
 - Satellite image super-resolution using adversarial learning  
 - Object detection for remote sensing imagery  
 
+<hr>
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Projects</span>  
 
@@ -82,7 +83,7 @@ Jun. 2017 – May. 2020
 - Implemented **one-shot learning techniques** for identity-based motion synthesis.  
 - Automated **background generation** and **GUI-based customization workflows**.  
 
-
+<hr>
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Publications</span>  
 
@@ -99,7 +100,8 @@ Jun. 2017 – May. 2020
 - **C. Shin**, S. Kim, Y. Kim, *"FROM PLANETSCOPE TO WORLDVIEW: MICRO-SATELLITE IMAGE SUPER-RESOLUTION WITH OPTIMAL TRANSPORT DISTANCE,"* **IEEE International Conference on Image Processing (ICIP)**, 2020.  
 - **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image super-resolution,"* **SPIE International Conference on Remote Sensing (ICRS)**, 2019.  
 
----
+<hr>
+
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Achievements</span>  
 
@@ -111,6 +113,7 @@ Jun. 2017 – May. 2020
 - **Champion, The Army Chief of Staff Award**, **Defense Startup Challenge**, **Ministry of Defence**, 2018  
 - **Defense Minister Award**, **K Start-up Challenge**, **Ministry of Defence**, 2018  
 
+<hr>
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Tech Stack</span>  
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
@@ -118,9 +121,5 @@ Jun. 2017 – May. 2020
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
 - **DevOps**: Docker, Git, Linux
 
-## <span style="color:#3498DB; font-weight: bold;">📩 Contact</span>  
-- 📧 Email: [scey26@gmail.com](mailto:scey26@gmail.com)
-- 🏠 Homepage: [https://jacobcyshin.github.io](https://jacobcyshin.github.io)
-- 📄 Google Scholar: [Changyeop Shin](https://scholar.google.com/citations?user=IfKqNVMAAAAJ&hl=en)
-- 💼 LinkedIn: [Changyeop Shin](https://www.linkedin.com/in/changyeop-shin)
+
 
