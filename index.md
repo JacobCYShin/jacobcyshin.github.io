@@ -3,7 +3,7 @@ layout: default
 title: Changyeop Shin
 ---
 
-<h1 font-size: 36px; font-weight: bold;">Welcome!</h1>
+# Welcome!
 
 ## <span style="color:#2ECC71; font-weight: bold;"> About Me</span>  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
