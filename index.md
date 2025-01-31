@@ -10,7 +10,34 @@ I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **A
 
 I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST**, and began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.
 
+## 🔹 Work Experience
 
+### **Hana Institute of Technology (HIT)**, Seoul, Republic of Korea  
+**Researcher** (Aug. 2023 – Present)  
+- Leading research on **AI-driven virtual human systems** for customer service applications  
+- Developing **diffusion model and NeRF-based** facial motion synthesis and real-time lip-syncing  
+- Building **custom TTS models and AI-driven conversational agents**  
+- Designing **web-based AI human demo environments** for interactive service validation  
+
+### **Korea Atomic Energy Research Institute (KAERI)**, Daejeon, Republic of Korea  
+**Researcher** (Jul. 2022 – Aug. 2023)  
+- Developed **AI-based radiation monitoring systems** for real-time anomaly detection  
+- Designed **deep learning algorithms** for nuclear signal filtering and radiation safety enhancement  
+- Built a **real-time radiation monitoring dashboard** using a relational database  
+
+### **Agency for Defense Development (ADD)**, Daejeon, Republic of Korea  
+**Research Officer** (Jun. 2017 – May. 2020)  
+- Conducted **computer vision and deep learning research** for military applications  
+- Developed **satellite image super-resolution models** using adversarial learning  
+- Designed an **object detection system for remote sensing imagery**  
+
+### **Korea Advanced Institute of Science and Technology (KAIST)**, Daejeon, Republic of Korea  
+**Graduate Researcher** (Sep. 2020 – Aug. 2022)  
+- Researched **computational imaging and deep learning** for medical applications  
+- Developed **semi-supervised anomaly detection models** for cancer diagnosis  
+- Designed **an image-translation framework** for diagnostic imaging systems
+
+  
 ## 🔹 연구 및 프로젝트
 ### 🎯 AI 기반 실시간 방사선 계측 시스템 개발 (한국원자력연구원)
 - 방사선 데이터를 실시간 감시하고 비연속적 신호를 정밀 계측하는 머신러닝 모델 설계 및 개발
@@ -27,14 +54,6 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 - 이종 위성영상 정합 기술 연구
 - 위성영상 데이터 레이블링 및 프로젝트 관리
 
-## 🔹 Career
-### 🔹 연구 경력
-- **Hana Institute of Technology (HIT)** (2023.08 - 현재)  
-  - AI Vision 셀 가상 인간 연구 및 서비스 개발
-- **한국원자력연구원 (KAERI)** (2022.07 - 2023.08)  
-  - 방사선 감시 시스템 개발 및 데이터 분석
-- **국방과학연구소 (ADD)** (2017.06 - 2020.05)  
-  - 국방 AI 연구 및 위성영상 분석
 
 ## 🔹 Publications & Patents
 ### 📄 논문
