@@ -5,10 +5,11 @@ title: Changyeop Shin
 
 # Welcome!
 
-## 🔹 About Me
+## 🔹 About Me  
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
 
-I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST**, and began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.
+I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**. I began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
+
 
 ## 🔹 Work Experience
 
@@ -91,10 +92,14 @@ Jun. 2017 – May. 2020
 
 ---
 
-## 🔹 Patents  
-- **Learning method and apparatus for improved resolution of low-resolution satellite images**, **Patent No. 1020676290000**, KIPO, 2020.  
-- **Learning method and apparatus for improved resolution of satellite images**, **Patent No. 1020200067873**, KIPO, 2020.  
-- **AI-based virtual human facial motion generation system and method**, **Patent Pending**.  
+## 🔹 Achievement
+
+- **4th Place, NTIRE 2020 Challenge on Real Image Denoising**, **CVPR Workshop**, 2020  
+- **4th Place, NTIRE 2020 Challenge on Spectral Reconstruction from an RGB Image**, **CVPR Workshop**, 2020  
+- **15th Place, NTIRE 2019 Challenge on Real Image Super-Resolution**, **CVPR Workshop**, 2019  
+- **Honor Prize, The Future & Challenge Project**, **Agency for Defense Development (ADD)**, 2018  
+- **Champion, The Army Chief of Staff Award**, **Defense Startup Challenge**, **Ministry of Defence**, 2018  
+- **Defense Minister Award**, **K Start-up Challenge**, **Ministry of Defence**, 2018  
 
 
 ## 🔹 Tech Stack
