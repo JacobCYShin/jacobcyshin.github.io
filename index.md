@@ -6,9 +6,12 @@ title: Changyeop Shin
 # Welcome!
 
 ## <span style="color:#2ECC71; font-weight: bold;"> About Me</span>  
-I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including facial motion synthesis, real-time lip-syncing, and generative AI models. Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, developing **AI-based radiation monitoring and anomaly detection systems**.  
+I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including **facial motion synthesis, real-time lip-syncing, and generative AI models**.  
 
-I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**. I began my career as a **research officer at the Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
+Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where I developed **AI-based radiation monitoring and anomaly detection systems**. I also worked as a research officer at the **Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
+
+I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Young-Gyu Yoon**, where I researched **computational imaging and deep learning for medical applications**. I earned my B.S. in **Electrical Engineering and Computer Science from GIST** and attended **Kyeongbuk Science High School**.  
+
 
 
 ## <span style="color:#2ECC71; font-weight: bold;"> Work Experience</span>
