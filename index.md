@@ -44,7 +44,7 @@ Jun. 2017 – May. 2020
 - Designed **multi-resolution image alignment techniques** for heterogeneous satellite data.  
 - Managed **data acquisition and outsourcing**, ensuring efficient annotation processes.  
 
----
+
 
 ### <span style="color:#8E44AD; font-weight: bold;"> 🛠 AI for Scientific and Industrial Applications</span>
 #### **AI-Based Real-Time Radiation Monitoring System**  
@@ -54,7 +54,7 @@ Jun. 2017 – May. 2020
 - Designed **noise filtering and anomaly detection algorithms** for signal processing.  
 - Optimized system **performance and stability** for real-world deployment.  
 
----
+
 
 ### <span style="color:#3498DB; font-weight: bold;"> 🧑‍💻 AI Human & Virtual Avatar Systems</span>  
 #### **AI Human Facial Motion Generation Research**  
