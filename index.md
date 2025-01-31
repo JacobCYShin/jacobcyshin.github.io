@@ -32,7 +32,6 @@ Jun. 2017 – May. 2020
 - Object detection for remote sensing imagery  
 
 
-  
 ## <span style="color:#2ECC71; font-weight: bold;"> Projects</span>  
 
 ### 🛰 **Remote Sensing & Satellite Image Processing**  
