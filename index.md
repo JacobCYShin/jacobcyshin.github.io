@@ -36,50 +36,64 @@ Jun. 2017 – May. 2020
 
 ## <span style="color:#3498DB; font-weight: bold;"> Projects</span>  
 
-### <span style="color:#3498DB; font-weight: bold;"> 🛰 Remote Sensing & Satellite Image Processing</span>  
-#### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
-**Agency for Defense Development (ADD)** | 📅 Nov. 2018 – May. 2020  
-- Led project planning and proposal, securing research funding.  
-- Developed **GAN-based super-resolution models** for enhancing small satellite imagery.  
-- Designed **multi-resolution image alignment techniques** for heterogeneous satellite data.  
-- Managed **data acquisition and outsourcing**, ensuring efficient annotation processes.  
+# 🚀 AI & Computer Vision Research Portfolio  
+*Advancing AI-driven solutions in remote sensing, scientific applications, and virtual human systems.*  
 
+---
 
+## 🛰 Remote Sensing & Satellite Image Processing  
+### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
+📍 **Agency for Defense Development (ADD)** | **Nov. 2018 – May. 2020**  
+- Led **project planning and research proposal**, securing competitive research funding.  
+- Developed **GAN-based super-resolution models** to enhance image resolution for small satellites.  
+- Engineered **multi-resolution image alignment algorithms** to integrate heterogeneous satellite data.  
+- Managed **data acquisition, annotation pipelines, and outsourcing**, ensuring high-quality dataset generation.  
+- Published **peer-reviewed papers** and contributed to **technology transfer** for defense applications.  
 
-### <span style="color:#3498DB; font-weight: bold;"> 🛠 AI for Scientific and Industrial Applications</span>
-#### **AI-Based Real-Time Radiation Monitoring System**  
-**Korea Atomic Energy Research Institute (KAERI)** | 📅 Sep. 2022 – Aug. 2023  
-- Developed **machine learning models** for real-time radiation detection and monitoring.  
-- Implemented **random signal measurement techniques** to improve detection accuracy.  
-- Designed **noise filtering and anomaly detection algorithms** for signal processing.  
-- Optimized system **performance and stability** for real-world deployment.  
+---
 
+## 🔬 AI for Scientific and Industrial Applications  
+### **Machine Learning for Real-Time Radiation Monitoring**  
+📍 **Korea Atomic Energy Research Institute (KAERI)** | **Sep. 2022 – Aug. 2023**  
+- Designed **machine learning models** for real-time radiation detection and monitoring.  
+- Developed **anomaly detection algorithms** to identify irregular radiation patterns.  
+- Implemented **random signal processing techniques** to improve detection sensitivity.  
+- Optimized **model inference speed and system stability** for real-world deployment.  
+- Contributed to **academic publications** and **technical reports** on radiation AI applications.  
 
+---
 
-### <span style="color:#3498DB; font-weight: bold;"> 🧑‍💻 AI Human & Virtual Avatar Systems</span>  
-#### **AI Human Facial Motion Generation Research**  
-**Hana Institute of Technology (HIT)** | 📅 Aug. 2023 – Dec. 2023  
-- Built a **script-based automated AI human generation pipeline** for virtual avatars.  
-- Developed **lip-syncing models** to enhance speech-driven facial animation.  
-- Researched **optical flow-based face reenactment techniques** for realistic motion synthesis.  
+## 🎭 AI Human & Virtual Avatar Systems  
+### **Automated AI Human Generation & Lip-Syncing**  
+📍 **Hana Institute of Technology (HIT)** | **Aug. 2023 – Dec. 2023**  
+- Developed a **fully automated AI-driven virtual human generation pipeline**.  
+- Engineered **speech-driven lip-syncing models** for highly accurate facial motion synthesis.  
+- Researched **optical flow-based face reenactment techniques** for lifelike avatar animation.  
+- Enhanced **multi-modal AI pipelines**, integrating speech, facial expression, and motion synthesis.  
 
-#### **AI Bank Teller Development for Virtual Consultation**  
-**Hana Institute of Technology (HIT)** | 📅 Apr. 2024 – Sep. 2024  
-- Developed **AI bank teller avatars** for virtual consultation scenarios.  
-- Designed **realistic facial animations and persona modeling** to enhance user experience.  
-- Integrated **3D rendering techniques** for high-fidelity digital human interactions.  
+### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
+📍 **Hana Institute of Technology (HIT)** | **Apr. 2024 – Dec. 2025**  
+- Developed **AI bank teller avatars** for **virtual consultation and customer service** applications.  
+- Designed **realistic persona-based facial animations** to ensure natural interactions.  
+- Integrated **real-time 3D rendering pipelines** for photorealistic virtual assistants.  
+- Implemented **speech-to-animation synchronization**, enhancing AI-human engagement.  
+- Deployed **optimized inference engines**, improving real-time interaction capabilities.  
 
-#### **Real-Time Intelligent AI Bank Teller System**  
-**Hana Institute of Technology (HIT)** | 📅 Nov. 2024 – Dec. 2025  
-- Designed a **real-time AI bank teller generation pipeline**.  
-- Integrated **LLM-based conversational AI** for dynamic interactions.  
-- Developed **TTS and inference acceleration** for real-time service.  
+### **AI-Powered Personalized Business Card Generator**  
+📍 **Hana Institute of Technology (HIT)** | **Jun. 2024 – Dec. 2024**  
+- Built a **one-shot learning-based identity motion synthesis system** for AI-driven business cards.  
+- Automated **dynamic background generation** for customized digital branding.  
+- Designed an **interactive GUI-based customization platform** for user-friendly personalization.  
 
-#### **One-Shot AI Business Card Generation**  
-**Hana Institute of Technology (HIT)** | 📅 Jun. 2024 – Dec. 2024  
-- Developed an **AI-driven personalized business card generator**.  
-- Implemented **one-shot learning techniques** for identity-based motion synthesis.  
-- Automated **background generation** and **GUI-based customization workflows**.  
+---
+
+## 💡 Why This Matters?  
+My research bridges the gap between **cutting-edge AI models and real-world applications**, focusing on:  
+✔ **Computer vision & deep learning** for **remote sensing, defense, and industrial AI**.  
+✔ **Real-time AI pipelines** for **scientific and business applications**.  
+✔ **Virtual human and digital avatar technologies**, shaping the future of AI-human interactions.  
+
+By blending **generative AI, computer vision, and multimodal intelligence**, I develop **scalable AI systems** that transform industries.
 
 <hr>
 
