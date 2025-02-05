@@ -36,7 +36,7 @@ Jun. 2017 – May. 2020
 
 ## <span style="color:#3498DB; font-weight: bold;"> Projects</span>  
 
-# 🚀 AI & Computer Vision Research Portfolio  
+# 🚀 AI Research Portfolio  
 *Advancing AI-driven solutions in remote sensing, scientific applications, and virtual human systems.*  
 
 ---
