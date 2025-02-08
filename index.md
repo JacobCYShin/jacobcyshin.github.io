@@ -132,6 +132,7 @@ By blending **generative AI, computer vision, and multimodal intelligence**, I d
 <hr>
 
 ## <span style="color:#3498DB; font-weight: bold;"> Tech Stack</span>  
+- **Generative AI**: Stable Diffusion (SD1.5, SDXL, FLUX), LoRA, IP-Adapter, ControlNet  
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
 - **Backend**: Python, FastAPI, Flask, SQL
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
