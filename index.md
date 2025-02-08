@@ -136,3 +136,11 @@ By blending **generative AI, computer vision, and multimodal intelligence**, I d
 - **Backend**: Python, FastAPI, Flask, SQL
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
 - **DevOps**: Docker, Git, Linux
+
+<hr>
+
+## <span style="color:#3498DB; font-weight: bold;"> Education </span>
+
+**KAIST**, M.S. in Electrical Engineering | 📅 Sep. 2020 – Aug. 2022  
+**GIST**, B.S. in Electrical Engineering and Computer Science | 📅 Mar. 2013 – Feb. 2017  
+**Kyeongbuk Science High School** | 📅 Mar. 2010 – Feb. 2013  
