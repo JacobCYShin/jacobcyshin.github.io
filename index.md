@@ -70,7 +70,7 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 ### **🎭 AI Human & Virtual Avatar Systems**  
 #### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
 📍 **Hana Institute of Technology (HIT)** | **Apr. 2024 – Dec. 2025**  
-- **Developed AI-driven virtual bank teller avatars**, improving customer interaction experiences.  
+- Developed **AI-driven virtual bank teller avatars**, improving customer interaction experiences.  
 - Designed **realistic persona-based facial animations**, ensuring lifelike digital interactions.  
 - Integrated **3D rendering pipelines**, optimizing real-time avatar performance for various financial service applications.  
 - Implemented **speech-to-animation synchronization**, enhancing AI-human engagement through natural conversation.  
