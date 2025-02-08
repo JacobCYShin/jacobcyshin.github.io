@@ -4,9 +4,7 @@ title: Changyeop Shin
 ---
 
 ## <span style="color:#3498DB; font-weight: bold;"> Welcome! </span>  
-I am an **AI researcher specializing in generative models, computer vision, and real-time AI applications**.  
-My expertise lies in **AI-driven virtual human systems, computational imaging, and deep learning for industrial applications**.  
-Throughout my career, I have contributed to **developing AI-powered virtual avatars, enhancing satellite image processing, and building AI-driven scientific solutions**.  
+I am an **AI researcher specializing in generative models, computer vision, and real-time AI applications**. My expertise lies in **AI-driven virtual human systems, computational imaging, and deep learning for industrial applications**. Throughout my career, I have contributed to **developing AI-powered virtual avatars, enhancing satellite image processing, and building AI-driven scientific solutions**.  
 
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including **facial motion synthesis, real-time lip-syncing, and generative AI models**.  
 
