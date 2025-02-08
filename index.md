@@ -4,6 +4,10 @@ title: Changyeop Shin
 ---
 
 ## <span style="color:#3498DB; font-weight: bold;"> Welcome! </span>  
+I am an **AI researcher specializing in generative models, computer vision, and real-time AI applications**.  
+My expertise lies in **AI-driven virtual human systems, computational imaging, and deep learning for industrial applications**.  
+Throughout my career, I have contributed to **developing AI-powered virtual avatars, enhancing satellite image processing, and building AI-driven scientific solutions**.  
+
 I am a researcher at the **Hana Institute of Technology (HIT)**, focusing on **AI-driven virtual human systems**, including **facial motion synthesis, real-time lip-syncing, and generative AI models**.  
 
 Previously, I worked as a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where I developed **AI-based radiation monitoring and anomaly detection systems**. I also worked as a research officer at the **Agency for Defense Development (ADD)**, specializing in **computer vision and satellite image analysis**.  
@@ -15,22 +19,24 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 ## <span style="color:#3498DB; font-weight: bold;"> Work Experience</span>
 
 **Hana Institute of Technology (HIT), Researcher**  
-Aug. 2023 – Present  
-- AI-driven virtual human systems for customer service  
-- Diffusion and NeRF-based facial motion synthesis  
-- Real-time lip-syncing and custom TTS model development  
+📅 Aug. 2023 – Present  
+- Led research on **AI-driven virtual human systems**, integrating **Diffusion and NeRF-based models**.  
+- Developed **real-time lip-syncing and facial motion synthesis** for AI avatars.  
+- Designed **custom TTS models** to enhance AI-driven customer interaction systems.  
 
 **Korea Atomic Energy Research Institute (KAERI), Researcher**  
-Jul. 2022 – Aug. 2023  
-- AI-based radiation monitoring and anomaly detection  
-- Deep learning for nuclear signal filtering  
-- Real-time radiation monitoring dashboard development  
+📅 Jul. 2022 – Aug. 2023  
+- Developed **AI-based radiation monitoring models** for real-time anomaly detection.  
+- Led research on **deep learning-based nuclear signal filtering** and **random signal processing**.  
+- Designed **real-time monitoring dashboards**, enhancing operational efficiency.  
+
 
 **Agency for Defense Development (ADD), Research Officer**  
-Jun. 2017 – May. 2020  
-- Computer vision and deep learning for military applications  
-- Satellite image super-resolution using adversarial learning  
-- Object detection for remote sensing imagery  
+📅 Jun. 2017 – May. 2020  
+- Led **GAN-based super-resolution model development** for enhancing small satellite imagery.  
+- Designed **multi-resolution image alignment algorithms** for heterogeneous satellite data fusion.  
+- Managed **satellite image data acquisition, annotation pipelines, and outsourcing**.  
+
 
 <hr>
 
@@ -40,19 +46,18 @@ Jun. 2017 – May. 2020
 
 ---
 
-## 🛰 Remote Sensing & Satellite Image Processing  
-### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
+### **🛰 Remote Sensing & Satellite Image Processing**  
+#### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 📍 **Agency for Defense Development (ADD)** | **Nov. 2018 – May. 2020**  
-- Led **project planning and research proposal**, securing competitive research funding.  
-- Developed **GAN-based super-resolution models** to enhance image resolution for small satellites.  
-- Engineered **multi-resolution image alignment algorithms** to integrate heterogeneous satellite data.  
-- Managed **data acquisition, annotation pipelines, and outsourcing**, ensuring high-quality dataset generation.  
-- Published **peer-reviewed papers** and contributed to **technology transfer** for defense applications.  
+- **Led the development of a GAN-based super-resolution model** to improve satellite imagery resolution.  
+- Designed **multi-resolution image alignment algorithms**, enabling effective data fusion between heterogeneous satellite data sources.  
+- Managed **data acquisition, annotation pipelines, and outsourcing**, ensuring high-quality dataset generation for deep learning models.  
+
 
 ---
 
-## 🔬 AI for Scientific and Industrial Applications  
-### **Machine Learning for Real-Time Radiation Monitoring**  
+### 🔬 AI for Scientific and Industrial Applications  
+#### **Machine Learning for Real-Time Radiation Monitoring**  
 📍 **Korea Atomic Energy Research Institute (KAERI)** | **Sep. 2022 – Aug. 2023**  
 - Designed **machine learning models** for real-time radiation detection and monitoring.  
 - Developed **anomaly detection algorithms** to identify irregular radiation patterns.  
@@ -62,15 +67,16 @@ Jun. 2017 – May. 2020
 
 ---
 
-## 🎭 AI Human & Virtual Avatar Systems  
-### **Automated AI Human Generation & Lip-Syncing**  
-📍 **Hana Institute of Technology (HIT)** | **Aug. 2023 – Dec. 2023**  
-- Developed a **fully automated AI-driven virtual human generation pipeline**.  
-- Engineered **speech-driven lip-syncing models** for highly accurate facial motion synthesis.  
-- Researched **optical flow-based face reenactment techniques** for lifelike avatar animation.  
-- Enhanced **multi-modal AI pipelines**, integrating speech, facial expression, and motion synthesis.  
+### **🎭 AI Human & Virtual Avatar Systems**  
+#### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
+📍 **Hana Institute of Technology (HIT)** | **Apr. 2024 – Dec. 2025**  
+- **Developed AI-driven virtual bank teller avatars**, improving customer interaction experiences.  
+- Designed **realistic persona-based facial animations**, ensuring lifelike digital interactions.  
+- Integrated **3D rendering pipelines**, optimizing real-time avatar performance for various financial service applications.  
+- Implemented **speech-to-animation synchronization**, enhancing AI-human engagement through natural conversation.  
 
-### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
+
+#### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
 📍 **Hana Institute of Technology (HIT)** | **Apr. 2024 – Dec. 2025**  
 - Developed **AI bank teller avatars** for **virtual consultation and customer service** applications.  
 - Designed **realistic persona-based facial animations** to ensure natural interactions.  
@@ -78,7 +84,7 @@ Jun. 2017 – May. 2020
 - Implemented **speech-to-animation synchronization**, enhancing AI-human engagement.  
 - Deployed **optimized inference engines**, improving real-time interaction capabilities.  
 
-### **AI-Powered Personalized Business Card Generator**  
+#### **AI-Powered Personalized Business Card Generator**  
 📍 **Hana Institute of Technology (HIT)** | **Jun. 2024 – Dec. 2024**  
 - Built a **one-shot learning-based identity motion synthesis system** for AI-driven business cards.  
 - Automated **dynamic background generation** for customized digital branding.  
