@@ -101,8 +101,10 @@ By blending **generative AI, computer vision, and multimodal intelligence**, I d
 ### **Journals**  
 - **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
 - **C. Shin**, S. Kim, Y. Kim, *"Satellite Image Target Super-resolution with Adversarial Shape Discriminator,"* **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2020.  
-- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image restoration,"* **SPIE Journal of Applied Remote Sensing (JARS)**, 2020.  
-### **Conferences**  
+- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image restoration,"* **SPIE Journal of Applied Remote Sensing (JARS)**, 2020.
+
+  
+### **Conferences**
 - **C. Shin**, S. Lee, *"Piecewise learning-based smoothing filter for fast and accurate nuclear counting,"* **IEEE Nuclear Science Symposium and Medical Imaging Conference (NSSMIC)**, 2023.  
 - **C. Shin**, H. Ryu, E.-S. Cho, Y.-G. Yoon, *"RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing,"* **MICCAI (Medical Image Computing and Computer-Assisted Intervention)**, 2021. *(Early accept, Top 13%)*  
   - **MICCAI Young Scientist Award**, *(First Korean recipient)*  
