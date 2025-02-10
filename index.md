@@ -57,11 +57,9 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 ### 🔬 AI for Scientific and Industrial Applications  
 #### **Machine Learning for Real-Time Radiation Monitoring**  
 📍 **Korea Atomic Energy Research Institute (KAERI)** | **Sep. 2022 – Aug. 2023**  
-- Designed **machine learning models** for real-time radiation detection and monitoring.  
 - Developed **anomaly detection algorithms** to identify irregular radiation patterns.  
 - Implemented **random signal processing techniques** to improve detection sensitivity.  
 - Optimized **model inference speed and system stability** for real-world deployment.  
-- Contributed to **academic publications** and **technical reports** on radiation AI applications.  
 
 ---
 
