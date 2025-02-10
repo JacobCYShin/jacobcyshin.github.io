@@ -4,7 +4,7 @@ email: scey26@gmail.com
 description: Computer Vision Researcher @ HIT
 show_downloads: false
 google_analytics: G-ZLK2GHB055
-color-scheme: auto
+color-scheme: light
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
