@@ -42,8 +42,6 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 
 *Advancing AI-driven solutions in remote sensing, scientific applications, and virtual human systems.*  
 
----
-
 ### **🛰 Remote Sensing & Satellite Image Processing**  
 #### **Deep Learning-Based Super-Resolution for Small Satellite Imagery**  
 📍 **Agency for Defense Development (ADD)** | **Nov. 2018 – May. 2020**  
@@ -52,8 +50,6 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 - Managed **data acquisition, annotation pipelines, and outsourcing**, ensuring high-quality dataset generation for deep learning models.  
 
 
----
-
 ### 🔬 AI for Scientific and Industrial Applications  
 #### **Machine Learning for Real-Time Radiation Monitoring**  
 📍 **Korea Atomic Energy Research Institute (KAERI)** | **Sep. 2022 – Aug. 2023**  
@@ -61,7 +57,6 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 - Implemented **random signal processing techniques** to improve detection sensitivity.  
 - Optimized **model inference speed and system stability** for real-world deployment.  
 
----
 
 ### **🎭 AI Human & Virtual Avatar Systems**  
 #### **AI Bank Teller for Virtual Consultation & Real-Time Interaction**  
@@ -71,6 +66,7 @@ I completed my M.S. in **Electrical Engineering at KAIST**, advised by **Prof. Y
 - Integrated **real-time 3D rendering pipelines** for photorealistic virtual assistants.  
 - Implemented **speech-to-animation synchronization**, enhancing AI-human engagement.  
 - Deployed **optimized inference engines**, improving real-time interaction capabilities.  
+
 
 #### **AI-Powered Personalized Business Card Generator**  
 📍 **Hana Institute of Technology (HIT)** | **Jun. 2024 – Dec. 2024**  
