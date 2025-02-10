@@ -130,9 +130,11 @@ By blending **generative AI, computer vision, and multimodal intelligence**, I d
 <hr>
 
 ## <span style="color:#3498DB; font-weight: bold;"> Tech Stack</span>  
-- **Generative AI**: Diffusion, LoRA, NeRF, GAN 
+- **Generative AI**: Diffusion, LoRA, NeRF, GAN
+- **Language**: Python, C++, Matlab, HTML
 - **AI & ML**: PyTorch, TensorFlow, OpenCV
-- **Backend**: Python, FastAPI, Flask, SQL
+- **WebUI**: Streamlit, Gradio
+- **Backend**: CUDA, FastAPI, Flask, SQL
 - **Cloud**: AWS (EC2, S3, Lambda), Firebase
 - **DevOps**: Docker, Git, Linux
 
