@@ -3,121 +3,157 @@ layout: default
 title: Changyeop Shin
 ---
 
-## <span style="color:#3498DB; font-weight: bold;"> Welcome! </span>  
-I am a **Senior AI Researcher** specializing in **generative AI, real-time AI applications, and virtual human systems**. My expertise lies in designing AI-driven architectures for digital human streaming, computational imaging, and deep learning-based anomaly detection. Throughout my career, I have focused on bridging the gap between cutting-edge AI research and robust, scalable product deployments.  
+<style>
+  .resume-section { margin-bottom: 2.5rem; }
+  .resume-header { border-bottom: 2px solid #2c3e50; padding-bottom: 0.5rem; margin-bottom: 1.5rem; color: #2c3e50; font-size: 1.4rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; }
+  .job-title { font-weight: 700; color: #333; font-size: 1.1rem; }
+  .job-meta { display: flex; justify-content: space-between; color: #555; font-size: 0.95rem; margin-bottom: 0.8rem; font-style: italic; }
+  .project-title { font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #444; font-size: 1.05rem; }
+  .pub-item { margin-bottom: 1rem; line-height: 1.5; }
+  .pub-title { font-weight: 600; color: #222; }
+  .pub-journal { font-style: italic; color: #555; }
+  ul { margin-top: 0.5rem; margin-bottom: 1.5rem; padding-left: 1.2rem; }
+  li { margin-bottom: 0.4rem; line-height: 1.6; color: #444; }
+  a { color: #2980b9; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .intro-text { font-size: 1.05rem; line-height: 1.7; color: #444; margin-bottom: 2rem; }
+  .name-header { font-size: 2.5rem; font-weight: 800; color: #2c3e50; margin-bottom: 0.2rem; }
+  .title-header { font-size: 1.2rem; font-weight: 500; color: #7f8c8d; margin-bottom: 1.5rem; }
+</style>
 
-Currently, I am a **Senior AI Researcher** at the **Hana Institute of Technology (HIT)**, where I lead the development of **AI-driven virtual human platforms** and **LLM/Agent-assisted workflows**. My work spans real-time avatar streaming via WebRTC, generative AI pipelines using Diffusion models, and optimized inference serving with TensorRT.  
+<div class="resume-section">
+  <div class="name-header">Changyeop Shin</div>
+  <div class="title-header">Senior AI Researcher | Generative AI · Digital Human Systems</div>
+  
+  <div class="intro-text">
+    I am a researcher specializing in generative AI, real-time AI applications, and virtual human systems. My expertise lies in designing AI-driven architectures for digital human streaming, computational imaging, and deep learning-based anomaly detection. Throughout my career, I have focused on bridging the gap between cutting-edge AI research and robust, scalable product deployments.
+  </div>
+</div>
 
-Previously, I was a researcher at the **Korea Atomic Energy Research Institute (KAERI)**, where I developed AI models for radiation monitoring and anomaly detection. Before that, I served as a Research Officer at the **Agency for Defense Development (ADD)**, researching satellite imagery super-resolution and computer vision.  
+<div class="resume-section">
+  <div class="resume-header">Work Experience</div>
 
-I received my M.S. in Electrical Engineering from **KAIST** and B.S. in Electrical Engineering and Computer Science from **GIST**.
+  <div class="job-title">Senior AI Researcher</div>
+  <div class="job-meta">
+    <span>Hana Institute of Technology (HIT)</span>
+    <span>Aug 2023 – Present</span>
+  </div>
+  <ul>
+    <li><strong>Digital Human & Generative AI Platform Development</strong>: Architected WebRTC-based real-time avatar streaming and Diffusion-based image/video generation pipelines.</li>
+    <li><strong>Inference Optimization</strong>: Optimized AI models using TensorRT and ONNX, deployed via Triton Inference Server and BentoML.</li>
+    <li><strong>AI Agent Automation</strong>: Spearheaded AI Agent-driven development workflows, including LLM-assisted code generation and automated testing.</li>
+    <li><strong>Full-Stack Prototyping</strong>: Implemented AI SaaS prototypes using Vercel and Supabase.</li>
+  </ul>
 
-<hr>
+  <div class="job-title">Researcher</div>
+  <div class="job-meta">
+    <span>Korea Atomic Energy Research Institute (KAERI)</span>
+    <span>Jul 2022 – Aug 2023</span>
+  </div>
+  <ul>
+    <li><strong>Machine Learning for Radiation Monitoring</strong>: Developed anomaly and arc fault detection models for radiation measurement systems.</li>
+    <li><strong>Signal Processing</strong>: Designed learning-based filtering algorithms for accurate nuclear counting.</li>
+    <li><strong>Data Infrastructure</strong>: Built MSSQL-based radiation data collection and management systems.</li>
+  </ul>
 
-## <span style="color:#3498DB; font-weight: bold;"> Work Experience</span>
+  <div class="job-title">Research Officer</div>
+  <div class="job-meta">
+    <span>Agency for Defense Development (ADD)</span>
+    <span>Jun 2017 – May 2020</span>
+  </div>
+  <ul>
+    <li><strong>Computer Vision for Satellite Imagery</strong>: Led research on GAN, ComfyUI-based super-resolution models for small satellite images.</li>
+    <li><strong>Data Pipeline Management</strong>: Designed annotation pipelines and managed large-scale datasets for satellite image object detection.</li>
+    <li><strong>Heterogeneous Data Fusion</strong>: Developed multi-resolution image alignment algorithms.</li>
+  </ul>
+</div>
 
-**Hana Institute of Technology (HIT), Senior AI Researcher**  
-📅 Aug. 2023 – Present  
-- **Digital Human & Generative AI Platform Development**: Architected WebRTC-based real-time avatar streaming and Diffusion-based image/video generation pipelines.
-- **Inference Optimization**: Optimized AI models using TensorRT and ONNX, and deployed via Triton Inference Server and BentoML.
-- **AI Agent Automation**: Spearheaded AI Agent-driven development workflows, including LLM-assisted code generation and automated testing.
-- **Full-Stack Prototyping**: Implemented AI SaaS prototypes using Vercel and Supabase.
+<div class="resume-section">
+  <div class="resume-header">Projects</div>
 
-**Korea Atomic Energy Research Institute (KAERI), Researcher**  
-📅 Jul. 2022 – Aug. 2023  
-- **Machine Learning for Radiation Monitoring**: Developed anomaly and arc fault detection models for radiation measurement systems.
-- **Signal Processing**: Designed learning-based filtering algorithms for accurate nuclear counting.
-- **Data Infrastructure**: Built MSSQL-based radiation data collection and management systems.
+  <div class="project-title">AI Human & Generative Platforms</div>
+  <ul>
+    <li><strong>Real-time Intelligent Customer Service System using AI Human (HIT)</strong>: Developed a real-time AI Human interaction system combining LLMs, custom TTS, and video synthesis. Architected a low-latency WebRTC avatar streaming infrastructure and optimized real-time inference pipelines.</li>
+    <li><strong>AI Human Daily Market Briefing & Video Dubbing System (HIT)</strong>: Built an automated video generation pipeline to produce daily market briefings using financial data. Implemented multilingual TTS-based video dubbing and automated lip-sync technologies.</li>
+    <li><strong>Generative AI Image Event Platform (HIT)</strong>: Designed an identity-preserving image generation pipeline using Diffusion models for personalized financial marketing.</li>
+  </ul>
 
-**Agency for Defense Development (ADD), Research Officer**  
-📅 Jun. 2017 – May. 2020  
-- **Computer Vision for Satellite Imagery**: Led research on GAN-based super-resolution models for small satellite images.
-- **Data Pipeline Management**: Designed annotation pipelines and managed large-scale datasets for satellite image object detection.
-- **Heterogeneous Data Fusion**: Developed multi-resolution image alignment algorithms.
+  <div class="project-title">AI for Scientific and Industrial Applications</div>
+  <ul>
+    <li><strong>Machine Learning for Real-Time Radiation Monitoring (KAERI)</strong>: Developed deep learning models for anomaly and arc fault detection in radiation data. Designed signal analysis models considering both accuracy and processing efficiency for real-world deployment.</li>
+  </ul>
 
-<hr>
+  <div class="project-title">Remote Sensing & Satellite Image Processing</div>
+  <ul>
+    <li><strong>Deep Learning-Based Satellite Imagery Enhancement (ADD)</strong>: Developed GAN, ComfyUI-based super-resolution models to enhance spatial resolution of micro-satellite imagery. Constructed large-scale datasets and verified model performance for complex real-world restoration tasks.</li>
+  </ul>
+</div>
 
-## <span style="color:#3498DB; font-weight: bold;"> Projects</span>  
+<div class="resume-section">
+  <div class="resume-header">Publications</div>
 
-*Advancing robust AI solutions across virtual humans, generative media, and scientific domains.*  
+  <div class="project-title">Journals</div>
+  <div class="pub-item">
+    <div class="pub-title">Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network</div>
+    <div><strong>C. Shin</strong>, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon</div>
+    <div class="pub-journal">Medical Image Analysis (MIA), 2022</div>
+  </div>
+  <div class="pub-item">
+    <div class="pub-title">Satellite Image Target Super-resolution with Adversarial Shape Discriminator</div>
+    <div><strong>C. Shin</strong>, S. Kim, Y. Kim</div>
+    <div class="pub-journal">IEEE Geoscience and Remote Sensing Letters (GRSL), 2020</div>
+  </div>
+  <div class="pub-item">
+    <div class="pub-title">Stacked lossless deconvolutional network for remote sensing image restoration</div>
+    <div><strong>C. Shin</strong>, M. Kim, S. Kim, Y. Kim</div>
+    <div class="pub-journal">SPIE Journal of Applied Remote Sensing (JARS), 2020</div>
+  </div>
 
-### **🎭 AI Human & Generative Platforms**  
-#### **Real-time Intelligent Customer Service System using AI Human**  
-📍 **Hana Institute of Technology (HIT)**  
-- Developed a real-time AI Human interaction system combining LLMs, custom TTS, and video synthesis.
-- Architected a low-latency WebRTC avatar streaming infrastructure for financial customer service.
-- Optimized real-time inference pipelines using TensorRT and ONNX.
+  <div class="project-title">Conferences</div>
+  <ul>
+    <li><strong>C. Shin</strong>, S. Lee, "Piecewise learning-based smoothing filter for fast and accurate nuclear counting," <span class="pub-journal">IEEE NSS/MIC</span>, 2023.</li>
+    <li><strong>C. Shin</strong>, H. Ryu, E.-S. Cho, Y.-G. Yoon, "RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing," <span class="pub-journal">MICCAI</span>, 2021. (Acceptance Rate: ~31%)</li>
+    <li><strong>C. Shin</strong>, S. Kim, Y. Kim, "From PlanetScope to WorldView: Micro-satellite Image Super-resolution with Optimal Transport Distance," <span class="pub-journal">IEEE ICIP</span>, 2020.</li>
+    <li><strong>C. Shin</strong>, M. Kim, S. Kim, Y. Kim, "Stacked lossless deconvolutional network for remote sensing image super-resolution," <span class="pub-journal">SPIE Remote Sensing</span>, 2019.</li>
+    <li><strong>C. Shin</strong>, Y. Kim, S. Kim, "Super-resolving satellite imagery with deep adversarial networks," <span class="pub-journal">KIMST</span>, 2019.</li>
+    <li><strong>C. Shin</strong>, D. Kim, T. Kim, "A Study on Channel Modeling for Free Space Optical Communications in Warfare Scenario," <span class="pub-journal">KIMST</span>, 2018.</li>
+    <li><strong>C. Shin</strong>, S. Yoo, Y. Kim, S. Kim, K. Kim, "Anti-Jamming Performance Analysis of Link-16 Systems using a Maximum Likelihood Diversity Combining," <span class="pub-journal">KICS</span>, 2017.</li>
+  </ul>
+</div>
 
-#### **AI Human Daily Market Briefing & Video Dubbing System**  
-📍 **Hana Institute of Technology (HIT)**  
-- Built an automated video generation pipeline to produce daily market briefings using financial data.
-- Implemented multilingual TTS-based video dubbing and automated lip-sync technologies.
+<div class="resume-section">
+  <div class="resume-header">Patents & Honors</div>
+  
+  <div class="project-title">Patents</div>
+  <ul>
+    <li>Learning method and apparatus for improved resolution of low resolution satellite images, KIPO, 2020.</li>
+    <li>Learning method and apparatus for improved resolution of satellite images, KIPO, 2020.</li>
+  </ul>
 
-#### **Generative AI Image Event Platform**  
-📍 **Hana Institute of Technology (HIT)**  
-- Designed an identity-preserving image generation pipeline using Diffusion models for personalized financial marketing.
+  <div class="project-title">Honors & Awards</div>
+  <ul>
+    <li><strong>MICCAI Young Scientist Award</strong> & <strong>Student Travel Award</strong>, 2021</li>
+    <li><strong>4th Place</strong>, NTIRE 2020 Challenge on Real Image Denoising & Spectral Reconstruction, CVPR Workshops, 2020</li>
+    <li><strong>15th Place</strong>, NTIRE 2019 Challenge on Real Image Super-Resolution, CVPR Workshop, 2019</li>
+    <li><strong>Honor Prize</strong>, The Future & Challenge Project, Agency for Defense Development (ADD), 2018</li>
+    <li><strong>Champion</strong> (The Army Chief of Staff Award) & <strong>Defense Minister Award</strong>, Defense/K Start-up Challenge, 2018</li>
+  </ul>
+</div>
 
-### 🔬 AI for Scientific and Industrial Applications  
-#### **Machine Learning for Real-Time Radiation Monitoring**  
-📍 **Korea Atomic Energy Research Institute (KAERI)** | Sep. 2022 – Aug. 2023  
-- Developed deep learning models for anomaly and arc fault detection in radiation data.
-- Designed signal analysis models considering both accuracy and processing efficiency for real-world deployment.
+<div class="resume-section">
+  <div class="resume-header">Skills & Education</div>
 
-### **🛰 Remote Sensing & Satellite Image Processing**  
-#### **Deep Learning-Based Satellite Imagery Enhancement**  
-📍 **Agency for Defense Development (ADD)** | Nov. 2018 – May. 2020  
-- Developed GAN-based super-resolution models to enhance spatial resolution of micro-satellite imagery.
-- Constructed large-scale datasets and verified model performance for complex real-world restoration tasks.
+  <div class="project-title">Tech Stack</div>
+  <ul>
+    <li><strong>AI/ML</strong>: PyTorch, TensorFlow, TensorRT, ONNX, Triton Inference Server, BentoML</li>
+    <li><strong>Generative AI & Agent</strong>: Diffusion, LLMs, AI Agent Workflows, NeRF, GAN, ComfyUI</li>
+    <li><strong>Software Engineering</strong>: Python, C++, SQL, TypeScript, HTML, Vercel, Supabase, WebRTC, FastAPI, Docker, Git, Linux</li>
+  </ul>
 
-<hr>
-
-## <span style="color:#3498DB; font-weight: bold;"> Publications</span>  
-
-### **Journals**  
-- **C. Shin**, H. Ryu, E.-S. Cho, S. Han, K.-H. Lee, C.-H. Kim, Y.-G. Yoon, *"Three-dimensional fluorescence microscopy through virtual refocusing using a recursive light propagation network,"* **Medical Image Analysis (MIA)**, 2022.  
-- **C. Shin**, S. Kim, Y. Kim, *"Satellite Image Target Super-resolution with Adversarial Shape Discriminator,"* **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2020.  
-- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image restoration,"* **SPIE Journal of Applied Remote Sensing (JARS)**, 2020.
-
-### **Conferences**
-- **C. Shin**, S. Lee, *"Piecewise learning-based smoothing filter for fast and accurate nuclear counting,"* **IEEE Nuclear Science Symposium and Medical Imaging Conference (NSS/MIC)**, 2023.  
-- **C. Shin**, H. Ryu, E.-S. Cho, Y.-G. Yoon, *"RLP-Net: A Recursive Light Propagation Network for 3-D Virtual Refocusing,"* **MICCAI**, 2021. *(Acceptance Rate: ~31%)*  
-- **C. Shin**, S. Kim, Y. Kim, *"From PlanetScope to WorldView: Micro-satellite Image Super-resolution with Optimal Transport Distance,"* **IEEE International Conference on Image Processing (ICIP)**, 2020.  
-- **C. Shin**, M. Kim, S. Kim, Y. Kim, *"Stacked lossless deconvolutional network for remote sensing image super-resolution,"* **SPIE Remote Sensing**, 2019.  
-- **C. Shin**, Y. Kim, S. Kim, *"Super-resolving satellite imagery with deep adversarial networks,"* **KIMST**, 2019.  
-- **C. Shin**, D. Kim, T. Kim, *"A Study on Channel Modeling for Free Space Optical Communications in Warfare Scenario,"* **KIMST**, 2018.  
-- **C. Shin**, S. Yoo, Y. Kim, S. Kim, K. Kim, *"Anti-Jamming Performance Analysis of Link-16 Systems using a Maximum Likelihood Diversity Combining,"* **KICS**, 2017.  
-
-<hr>
-
-## <span style="color:#3498DB; font-weight: bold;"> Patents & Achievements</span>  
-
-### **Patents**
-- **Learning method and apparatus for improved resolution of low resolution satellite images**, KIPO, 2020.  
-- **Learning method and apparatus for improved resolution of satellite images**, KIPO, 2020.  
-
-### **Honors & Awards**
-- **MICCAI Young Scientist Award**, 2021  
-- **MICCAI Student Travel Award**, 2021  
-- **4th Place, NTIRE 2020 Challenge on Real Image Denoising**, CVPR Workshop, 2020  
-- **4th Place, NTIRE 2020 Challenge on Spectral Reconstruction**, CVPR Workshop, 2020  
-- **15th Place, NTIRE 2019 Challenge on Real Image Super-Resolution**, CVPR Workshop, 2019  
-- **Honor Prize, The Future & Challenge Project**, Agency for Defense Development (ADD), 2018  
-- **Champion, The Army Chief of Staff Award**, Defense Startup Challenge, Ministry of Defence, 2018  
-- **Defense Minister Award**, K Start-up Challenge, Ministry of Defence, 2018  
-
-<hr>
-
-## <span style="color:#3498DB; font-weight: bold;"> Tech Stack</span>  
-- **AI/ML**: PyTorch, TensorFlow, TensorRT, ONNX, Triton Inference Server, BentoML
-- **Generative AI & Agent**: Diffusion, LLMs, AI Agent Workflows, NeRF, GAN
-- **Languages**: Python, C++, SQL, TypeScript, HTML
-- **Web & Backend**: Vercel, Supabase, WebRTC, FastAPI, Streamlit
-- **DevOps**: Docker, Git, Linux
-
-<hr>
-
-## <span style="color:#3498DB; font-weight: bold;"> Education </span>
-
-- **KAIST**, M.S. in Electrical Engineering (Sep. 2020 – Aug. 2022)
-- **GIST**, B.S. in Electrical Engineering and Computer Science (Mar. 2013 – Feb. 2017)
-- **Kyeongbuk Science High School** (Mar. 2010 – Feb. 2013)
+  <div class="project-title">Education</div>
+  <ul>
+    <li><strong>Korea Advanced Institute of Science and Technology (KAIST)</strong><br>M.S. in Electrical Engineering (Sep 2020 – Aug 2022)</li>
+    <li><strong>Gwangju Institute of Science and Technology (GIST)</strong><br>B.S. in Electrical Engineering and Computer Science (Mar 2013 – Feb 2017)</li>
+    <li><strong>Kyeongbuk Science High School</strong><br>(Mar 2010 – Feb 2013)</li>
+  </ul>
+</div>
